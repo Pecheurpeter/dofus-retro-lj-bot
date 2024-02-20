@@ -1,0 +1,14 @@
+cruel trovel: 
+12 copper  #625k miner
+10 cobalt	#3kk miner	
+5 chestnut wood 110k lj
+4 chery wood  #2.6k lj
+4 bombu wood	#1.3k lj	
+1 ebonite     #1500k miner
+
+
+
+ebonite = 10 copper 10 bronze 10 iron
+10 iron #500k
+10 copper #550k
+10 bronze #400k
